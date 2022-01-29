@@ -1,0 +1,24 @@
+html, body{
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.main {
+	margin: auto;
+	width: 60%;
+	border: 3px solid black;
+	padding: 10px;
+	vertical-align: middle;
+}
+
+.login {
+	height: 50%;
+	width: 50%;
+	background-color: #6eeb34;
+	margin: auto;
+	width: 60%;
+	border: 3px solid #73AD21;
+	padding: 10px;
+}
